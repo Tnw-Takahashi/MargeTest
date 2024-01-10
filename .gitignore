@@ -1,1 +1,10 @@
-*.xml MGXML merge=mgmerge
+MagicIDs/branchids*.*
+/Source/ProgramHeaders.xml
+/Source/DataSourcesIndex.xml
+*.log
+*.lock
+*.opt
+*.sln
+*.suo
+*.xpaproj
+*.xrf
